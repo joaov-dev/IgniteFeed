@@ -113,7 +113,7 @@
     background: var(--green-300);
 }
 
-.commentForm button:disabled{
+.commentForm button[type=submit]:disabled{
     opacity: 0.7;
 }
 
